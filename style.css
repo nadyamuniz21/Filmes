@@ -1,0 +1,24 @@
+ <style>
+
+           .texto-grande {
+            font-size: 60px;
+        }
+
+          .filmes{
+             
+             border: 2px solid black;
+             width: 150px;
+             height: 50px;
+            display: inline-block;
+            margin: 30px;
+            padding: 10px;
+
+             }
+          .p{color:rgb(157, 165, 42)}
+          h1{color: brown}
+          h2{color:black}
+
+          .cordefundo:hover {
+               color: rgb(40, 7, 230);
+          }
+         </style>
